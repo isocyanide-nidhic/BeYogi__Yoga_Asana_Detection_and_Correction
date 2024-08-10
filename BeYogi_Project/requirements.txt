@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+matplotlib
+Flask
+gTTS
+pygame
+mutagen
+urllib3
